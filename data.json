@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "GLOCK 17 Gen5",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/glock.png",
+    "img": "https://raw.githubusercontent.com/koushik-ahmad/github-api/main/Photo/fit-1.jpg",
     "bullet": "9mm",
     "capacity": "17 + 1",
     "action": "Semi-Automatic",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "FN 509 Tactical",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/FN.png",
+    "img": "https://raw.githubusercontent.com/koushik-ahmad/github-api/main/Photo/fit-2.jpg",
     "bullet": "9mm",
     "capacity": "10 + 1",
     "action": "Semi-Automatic",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "Kimber Custom 1911",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/ki%2Cber.png",
+    "img": "https://raw.githubusercontent.com/koushik-ahmad/github-api/main/Photo/fit-3.jpg",
     "bullet": "45 ACP",
     "capacity": "7 + 1",
     "action": "Semi-Automatic",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "Beretta M9A4 RDO",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta.png",
+    "img": "https://raw.githubusercontent.com/koushik-ahmad/github-api/main/Photo/fit-4.jpg",
     "bullet": "9mm",
     "capacity": "18 + 1",
     "action": "Semi-Automatic",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "name": "Beretta A400 Xcel",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta-shotgun.png",
+    "img": "https://raw.githubusercontent.com/koushik-ahmad/github-api/main/Photo/fit-5.jpg",
     "bullet": "12 Gauge",
     "capacity": "3 + 1",
     "action": "Semi-Automatic",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "name": "Benelli M1014",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/benalim4.png",
+    "img": "https://raw.githubusercontent.com/koushik-ahmad/github-api/main/Photo/fit-6.jpg",
     "bullet": "12 Gauge",
     "capacity": "5 + 1",
     "action": "Semi-Automatic",
